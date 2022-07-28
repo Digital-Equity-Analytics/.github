@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🙋‍♀️ What Digital Equity Association organization is about?
+### 🙋‍♀️ What Digital Equity Association is about?
 
 We are embedded in a community of like-minded specialists and organizations that understand the need for standards and good practices to “do no digital harm” whilst keeping up with the rapid speed of technological innovation and implementation. We recognize and build on an emerging consensus principally articulated in documents such as the [Principles for Identification ](https://id4d.worldbank.org/principles)(facilitated by the World Bank’s ID4D project), the [Signal Code of the Harvard Humanitarian Initiative](https://signalcode.org/), the [Platform for Good Digital Identity](https://www.weforum.org/projects/digital-identity) (facilitated by the World Economic Forum), as well as the [Universal Guidelines for Artificial Intelligence](https://thepublicvoice.org/ai-universal-guidelines/) (Public Voice, October 2018).
 
