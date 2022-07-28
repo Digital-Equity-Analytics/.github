@@ -14,7 +14,7 @@ Equally, enabling opportunities must go hand in hand with understanding and avoi
 
 For everyone, the digital transformation must enable the enjoyment of all civil and political rights, access to services, engaging in all types of online transactions, and socio-economic inclusion in general.     
 
-### Our Principles
+### Our Principles 
 
 - **Inclusive**
 
