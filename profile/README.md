@@ -50,7 +50,7 @@ Fulfil real needs and enable significant improvements over existing systems.
 
 - **Affordable**
 
-- Minimize cost by harnessing existing infrastructure as well as promoting competition and innovation by enabling standards and regulations.
+Minimize cost by harnessing existing infrastructure as well as promoting competition and innovation by enabling standards and regulations.
 
 
 #### 🌈 Contribution guidelines
